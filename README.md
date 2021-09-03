@@ -1,8 +1,6 @@
 # mini site de recherche de fichier 
 ## Auteur du projet
-Ce projet à était créée par moi (tristan carnesciali)</br>
-voici une photo de moi</br>
-![gigachad](https://i.kym-cdn.com/photos/images/newsfeed/002/143/785/bca.jpg)
+Ce projet à était créée par moi (tristan carnesciali)
 
 ## pour ce site vous aurez besoin de :
 - wampserveur (pour le tester en local)
