@@ -1,10 +1,14 @@
-# le temps des tempêtes
+# mini site de recherche de fichier 
 ## Auteur du projet
 Ce projet à était créée par moi (tristan carnesciali)</br>
 voici une photo de moi</br>
 ![gigachad](https://i.kym-cdn.com/photos/images/newsfeed/002/143/785/bca.jpg)
 
-## voici un peux de code
+## pour ce site vous aurez besoin de :
+- wampserveur (pour le tester en local)
+- visual studio code (pour le code) 
+
+## voici le code de recherhce de fichier 
 
 ```php
  function rechercherficiheripp($ipp){
@@ -42,7 +46,10 @@ voici une photo de moi</br>
     }
 }
 ```
-test [site](https://pointerpointer.com/)
+
+## Resultat de la racherche
+
+![recherche](https://www.zupimages.net/up/21/35/bzqn.png)
 
 
 
